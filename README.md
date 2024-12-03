@@ -9,3 +9,4 @@ Actividad 1.
 - Added licence
 - Added log
 - added new brach called dev
+-Added contributor to file
