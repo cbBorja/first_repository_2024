@@ -7,3 +7,5 @@ Actividad 1.
 - Added the README file to the repository.
 - Added gitignore
 - Added licence
+- Added log
+- added new brach called dev
